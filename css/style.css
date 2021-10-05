@@ -173,6 +173,7 @@ h3{
     box-shadow: var(--shadow); 
     border: 0.4rem solid var(--primary);
     width: 100%;
+    box-sizing: border-box;
 }
 
 footer{
